@@ -1,0 +1,20 @@
+D:\Descarga\M07\UF1\Prova sesio 2\bin\Debug\net6.0-windows\Prova sesio 2.exe
+D:\Descarga\M07\UF1\Prova sesio 2\bin\Debug\net6.0-windows\Prova sesio 2.deps.json
+D:\Descarga\M07\UF1\Prova sesio 2\bin\Debug\net6.0-windows\Prova sesio 2.runtimeconfig.json
+D:\Descarga\M07\UF1\Prova sesio 2\bin\Debug\net6.0-windows\Prova sesio 2.dll
+D:\Descarga\M07\UF1\Prova sesio 2\bin\Debug\net6.0-windows\Prova sesio 2.pdb
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\App.g.cs
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2_MarkupCompile.cache
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2_MarkupCompile.lref
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.g.resources
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.AssemblyInfoInputs.cache
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.AssemblyInfo.cs
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.csproj.CoreCompileInputs.cache
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.dll
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\refint\Prova sesio 2.dll
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.pdb
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\Prova sesio 2.genruntimeconfig.cache
+D:\Descarga\M07\UF1\Prova sesio 2\obj\Debug\net6.0-windows\ref\Prova sesio 2.dll

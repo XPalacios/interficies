@@ -1,0 +1,18 @@
+﻿<Window x:Class="Prova_sesio_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prova_sesio_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="450">
+    <Grid>
+        <Button Content="send" Margin="514,133,70,152" Background="#FFE50000" BorderBrush="#FF0022FF" FontSize="24" Opacity="0.995"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="118,0,0,0" VerticalAlignment="Center" Height="19" Width="101"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="118,133,0,0" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="294,208,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="322,282,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="225,495,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>
